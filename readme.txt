@@ -1,3 +1,3 @@
-Git is control system.
+Git is a distributed control system.
 Git is free software.
 
